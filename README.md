@@ -1,12 +1,16 @@
 ## 👨‍💻 Profile
-
-- 👋 &nbsp; Hi, I’m **Utsav Barnwal**
+Hi 👋  &nbsp;, I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of 5+ years, I have worked with several clients and have architected & built 30+ scalable [projects](https://isolpro.in/portfolio) and published 15+ [open-source libraries](https://github.com/u-barnwal?tab=repositories). I love to learn and teach technical stuff. Want to know more about me? See my portfolio: https://utsav.pro
 - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
-- 🌱 &nbsp; I’m currently learning (mostly) **ReactJS** & **NodeJS**
+- 🌱 &nbsp; I’m currently learning (mostly) **React Native**
 - 💞️ &nbsp; I’m looking to collaborate on **some awesome JS or Android libraries**
-- 📫 &nbsp; How to reach me? Take a look **https://utsav.pro**
+- 📫 &nbsp; Reach me at contact@utsav.pro
 
 ![](https://komarev.com/ghpvc/?username=u-barnwal&color=blue&label=Views:)
+
+## 💼 Work
+- I am currently employed with **[Proximity Tech](https://www.proximity.tech)**, a distributed team of like-minded people who love a good challenge and thrive in a culture of complexity and innovation.  
+- As a contractor from Proximity, I am working with **[Cars24](https://cars24.com)**, a next-generation e-commerce platform for pre-owned autos (cars and bikes).
+- In my free time, I take orders from my startup **[IsolPro](https://isolpro.in)** and build projects for clients from across India (and a few from abroad).
 
 ## 📈 Stats
 
