@@ -11,9 +11,9 @@
 <a href="https://stackexchange.com/users/5601304"><img src="https://stackexchange.com/users/flair/5601304.png" width="208" height="58" alt="My profile on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Utsav Barnwal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=u-barnwal&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=0" width="50.5%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=u-barnwal&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="50.5%" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-barnwal&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=0" width="42%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-barnwal&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
 </a>
