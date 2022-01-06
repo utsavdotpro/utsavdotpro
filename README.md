@@ -9,7 +9,8 @@ Hi 👋  &nbsp;, I’m Utsav Barnwal a **passionate & professional Full-stack De
 
 ## 💼 Work
 - I am currently employed with **[Proximity Tech](https://www.proximity.tech)**, a distributed team of like-minded people who love a good challenge and thrive in a culture of complexity and innovation.  
-- As a contractor from Proximity, I am working with **[Cars24](https://cars24.com)**, a next-generation e-commerce platform for pre-owned autos (cars and bikes).
+- As a contractor from Proximity, I am working with **[Hotstar](https://hotstar.com)**, an Indian brand of subscription video on-demand over-the-top streaming service operated by Disney Media, a division of The Walt Disney Company.
+- With Proximity, I am building an employee (web) portal to manage leaves, projects and clients.
 - In my free time, I take orders from my startup **[IsolPro](https://isolpro.in)** and build projects for clients from across India (and a few from abroad).
 
 ## 📈 Stats
