@@ -5,7 +5,7 @@ Hi 👋  &nbsp;, I’m Utsav Barnwal a **passionate & professional Full-stack De
 - 💞️ &nbsp; I’m looking to collaborate on **some awesome JS or Android libraries**
 - 📫 &nbsp; Reach me at contact@utsav.pro
 
-![](https://komarev.com/ghpvc/?username=u-barnwal&color=blue&label=Views:)
+![](https://visitcount.itsvg.in/api?id=u-barnwal&label=Views&color=12&icon=5&pretty=true)
 
 ## 💼 Work
 - I am currently employed with **[Proximity Tech](https://www.proximity.tech)**, a distributed team of like-minded people who love a good challenge and thrive in a culture of complexity and innovation.  
