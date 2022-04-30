@@ -1,18 +1,19 @@
 > _Recently updated username from `u-barnwal` to `utsavdotpro`_
 
 ## 👨‍💻 Profile
-Hi 👋  &nbsp;, I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of 5+ years, I have worked with several clients and have architected & built 30+ scalable [projects](https://isolpro.in/portfolio) and published 15+ [open-source libraries](https://github.com/utsavdotpro?tab=repositories). I love to learn and teach technical stuff. Want to know more about me? See my portfolio: https://utsav.pro
+Hi 👋  &nbsp;, I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of 5+ years, I have worked with several clients and have architected & built 40+ scalable [projects](https://isolpro.in/portfolio) and published 20+ [open-source libraries](https://github.com/utsavdotpro?tab=repositories). I love to learn and teach technical stuff. Want to know more about me? See my portfolio: https://utsav.pro
 - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
 - 🌱 &nbsp; I’m currently learning (mostly) **React Native**
 - 💞️ &nbsp; I’m looking to collaborate on **some awesome JS or Android libraries**
 - 📫 &nbsp; Reach me at me@utsav.pro
+- 📆 &nbsp; Schedule a call: https://talkto.utsav.pro
 
 ![](https://visitcount.itsvg.in/api?id=u-barnwal&label=Views&color=12&icon=5&pretty=true)
 
 ## 💼 Work
-- I am currently employed with **[Proximity Tech](https://www.proximity.tech)**, a distributed team of like-minded people who love a good challenge and thrive in a culture of complexity and innovation.  
+- I am currently employed with **[Proximity Works](https://www.proximity.tech)**, a distributed team of like-minded people who love a good challenge and thrive in a culture of complexity and innovation.  
 - As a contractor from Proximity, I am working with **[Hotstar](https://hotstar.com)**, an Indian brand of subscription video on-demand over-the-top streaming service operated by Disney Media, a division of The Walt Disney Company.
-- With Proximity, I am building an employee (web) portal to manage leaves, projects and clients.
+- As a consultant with **[Inkredo](https://inkredo.in/)**, I am building a CRM for lenders to better manager their customers & improvise collections.
 - In my free time, I take orders from my startup **[IsolPro](https://isolpro.in)** and build projects for clients from across India (and a few from abroad).
 
 ## 📈 Stats
