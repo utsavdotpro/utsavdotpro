@@ -1,5 +1,3 @@
-> _Recently updated username from `u-barnwal` to `utsavdotpro`_
-
 ## 👨‍💻 Profile
 Hi 👋  &nbsp;, I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of 5+ years, I have worked with several clients and have architected & built 40+ scalable [projects](https://isolpro.in/portfolio) and published 20+ [open-source libraries](https://github.com/utsavdotpro?tab=repositories). I love to learn and teach technical stuff. Want to know more about me? See my portfolio: https://utsav.pro
 - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
