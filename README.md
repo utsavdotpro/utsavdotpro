@@ -6,7 +6,7 @@ Hi 👋  &nbsp;, I’m Utsav Barnwal a **passionate & professional Full-stack De
 - 📫 &nbsp; Reach me at me@utsav.pro
 - 📆 &nbsp; Schedule a call: https://talkto.utsav.pro
 
-![](https://visitcount.itsvg.in/api?id=u-barnwal&label=Views&color=12&icon=5&pretty=true)
+![](https://visitcount.itsvg.in/api?id=utsavdotpro&label=Views&color=12&icon=5&pretty=true)
 
 ## 💼 Work
 - I am currently employed with **[Proximity Works](https://www.proximity.tech)**, a distributed team of like-minded people who love a good challenge and thrive in a culture of complexity and innovation.  
