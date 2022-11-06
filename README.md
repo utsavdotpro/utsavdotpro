@@ -1,18 +1,29 @@
 ## 👨‍💻 Profile
-Hi 👋  &nbsp;, I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of 5+ years, I have worked with several clients and have architected & built 40+ scalable [projects](https://isolpro.in/portfolio) and published 20+ [open-source libraries](https://github.com/utsavdotpro?tab=repositories). I love to learn and teach technical stuff. Want to know more about me? See my portfolio: https://utsav.pro
+Hi 👋  
+I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of 5+ years, I have worked with several clients and have architected & built 40+ scalable [projects](https://isolpro.in/portfolio) and published 20+ [open-source libraries](https://github.com/utsavdotpro?tab=repositories). I love to learn and teach technical stuff.  
+
+Want to know more about me? See my portfolio: https://utsav.pro
+
 - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
-- 🌱 &nbsp; I’m currently learning (mostly) **React Native**
+- 🌱 &nbsp; I’m currently learning (mostly) **React Native**, **C#** & **.Net**
 - 💞️ &nbsp; I’m looking to collaborate on **some awesome JS or Android libraries**
 - 📫 &nbsp; Reach me at me@utsav.pro
 - 📆 &nbsp; Schedule a call: https://talkto.utsav.pro
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/utsavdotpro)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/utsavdotpro)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4437468)
+[![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-00897B?style=for-the-badge&logo=google-meet&logoColor=white)](https://topmate.io/utsavdotpro)
+
 ![](https://visitcount.itsvg.in/api?id=utsavdotpro&label=Views&color=12&icon=5&pretty=true)
 
-## 💼 Work
-- I am currently employed with **[Proximity Works](https://www.proximity.tech)**, a distributed team of like-minded people who love a good challenge and thrive in a culture of complexity and innovation.  
-- As a contractor from Proximity, I am working with **[Hotstar](https://hotstar.com)**, an Indian brand of subscription video on-demand over-the-top streaming service operated by Disney Media, a division of The Walt Disney Company.
-- As a consultant with **[Inkredo](https://inkredo.in/)**, I am building a CRM for lenders to better manager their customers & improvise collections.
+## 💼 Work (Recent)
+- I am currently employed with [**Agoda**](https://agoda.com/), one of the top travel companies in Asia, as a full-stack developer with prime focus on back-end.
 - In my free time, I take orders from my startup **[IsolPro](https://isolpro.in)** and build projects for clients from across India (and a few from abroad).
+- As a contractor from [Proximity Works](https://www.proximity.tech), I have worked with **[Hotstar](https://hotstar.com)**, an Indian brand of subscription video-on-demand over-the-top streaming service operated by Disney Media, a division of The Walt Disney Company.
+- As a consultant with **[Inkredo](https://inkredo.in/)**, I led a small team of developers to build a CRM for lenders to better manage their customers & improvise collections.
+
+🔗 See my full work history on [LinkedIn](https://www.linkedin.com/in/utsavdotpro/)
 
 ## 📈 Stats
 
