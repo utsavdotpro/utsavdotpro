@@ -36,39 +36,17 @@ Want to know more about me? See my portfolio: https://utsav.pro
 
 ## ⚡ Technologies
 
-### One-true Love
-
-<img src="https://skillicons.dev/icons?i=ts" height="20" />
-
-### Go-to Tech Stack
-
-Front-end:
-
-<img src="https://skillicons.dev/icons?i=ts,next,react,html,tailwind,vercel" height="20" />
-
-Back-end:
-
-<img src="https://skillicons.dev/icons?i=ts,nest,nodejs,prisma,postgres,graphql,redis,aws" height="20" />
-
-Mobile:
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,sqlite" height="20" /> ReactNative, RealmDB
-
-Tools:
-
-<img src="https://skillicons.dev/icons?i=vscode,github,docker" height="20" />
-
-Others:
-
-<img src="https://skillicons.dev/icons?i=docker" height="20" />, Yarn
-
-### Used in Previous Life
-
-<img src="https://skillicons.dev/icons?i=php,java,jquery,sass" height="20" />
-
-### Also Know (in no specific order)
-
-<img src="https://skillicons.dev/icons?i=svelte,md,express,mysql,mongodb,sqlite,bootstrap" height="20" />
+| | | |
+| - | - | - |
+| **One True-love** | <img src="https://skillicons.dev/icons?i=ts" height="20" /> |
+| **Go-to Tech Stack** | |
+| Front-end | <img src="https://skillicons.dev/icons?i=ts,next,react,html,tailwind,vercel" height="20" /> |
+| Back-end: | <img src="https://skillicons.dev/icons?i=ts,nest,nodejs,prisma,postgres,graphql,redis,aws" height="20" /> |
+| Mobile: | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,sqlite" height="20" /> | ReactNative, RealmDB |
+| Tools: | <img src="https://skillicons.dev/icons?i=vscode,github,docker" height="20" /> |
+| Others: | <img src="https://skillicons.dev/icons?i=docker" height="20" /> | Yarn |
+| **Used in Previous Life** | <img src="https://skillicons.dev/icons?i=php,java,jquery,sass" height="20" /> |
+| **Also Know (in no specific order)** | <img src="https://skillicons.dev/icons?i=svelte,md,express,mysql,mongodb,sqlite,bootstrap" height="20" /> |
 
 | | |
 | - | - |
