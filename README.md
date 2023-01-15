@@ -26,23 +26,17 @@ Want to know more about me? See my portfolio: https://utsav.pro
   I am currently employed with [**Agoda**](https://agoda.com/), one of the top travel companies in Asia, as a full-stack developer with prime focus on back-end.
 </div>  
 
----
-
 <div>
   <img height="60" align='right' src="./assets/isolpro.png" style="object-fit:contain" />  
 
   In my free time, I take orders from my startup IsolPro and build projects for clients from across India (and a few from abroad). 
 </div>
 
----
-
 <div>
   <img height="60" align='left' src="./assets/proximity.jpeg" style="object-fit:contain" />  
   
   As a contractor from [Proximity Works](https://www.proximity.tech), I have worked with **[Hotstar](https://hotstar.com)**, an Indian brand of subscription video-on-demand over-the-top streaming service operated by Disney Media, a division of The Walt Disney Company.
 </div>  
-
----
 
 <div>
   <img height="60" align='right' src="./assets/inkredo.png" style="object-fit:contain" />  
