@@ -47,6 +47,6 @@ Want to know more about me? See my portfolio: https://utsav.pro
 | Tools: | <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,supabase,webpack,figma&perline=8" height="24" /> | Postman |
 | Others: | <img src="https://skillicons.dev/icons?i=docker&perline=8" height="24" /> | Yarn, JWT |
 | |
-| **Also Know & Use** (in no specific order)**:** | <img src="https://skillicons.dev/icons?i=svelte,md,express,mongodb,sqlite,bootstrap,materialui,firebase,heroku,netlify,bash,jest,gradle,grafana,regex,svg&perline=8" height="48" /> | Websocket, DigitalOcean |
+| **Know & Use** (in no specific order)**:** | <img src="https://skillicons.dev/icons?i=svelte,md,express,mongodb,sqlite,bootstrap,materialui,firebase,heroku,netlify,bash,jest,gradle,grafana,regex,svg&perline=8" height="48" /> | Websocket, DigitalOcean |
 | |
 | **Used in Previous Life:** | <img src="https://skillicons.dev/icons?i=php,java,jquery,sass,mysql,c,cpp&perline=8" height="24" /> |
