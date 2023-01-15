@@ -38,33 +38,18 @@ Want to know more about me? See my portfolio: https://utsav.pro
 
 | | | |
 | - | - | - |
-| **One True-love** | <img src="https://skillicons.dev/icons?i=ts" height="20" /> |
-| **Go-to Tech Stack** | |
-| Front-end | <img src="https://skillicons.dev/icons?i=ts,next,react,html,tailwind,vercel" height="20" /> |
+| **One True-love:** | <img src="https://skillicons.dev/icons?i=ts" height="20" /> |
+| |
+| **Go-to Stack** | |
+| Front-end: | <img src="https://skillicons.dev/icons?i=ts,next,react,tailwind,html,css,vercel" height="20" /> |
 | Back-end: | <img src="https://skillicons.dev/icons?i=ts,nest,nodejs,prisma,postgres,graphql,redis,aws" height="20" /> |
 | Mobile: | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,sqlite" height="20" /> | ReactNative, RealmDB |
-| Tools: | <img src="https://skillicons.dev/icons?i=vscode,github,docker" height="20" /> |
+| Tools: | <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,supabase,webpack" height="20" /> |
 | Others: | <img src="https://skillicons.dev/icons?i=docker" height="20" /> | Yarn |
-| **Used in Previous Life** | <img src="https://skillicons.dev/icons?i=php,java,jquery,sass" height="20" /> |
-| **Also Know (in no specific order)** | <img src="https://skillicons.dev/icons?i=svelte,md,express,mysql,mongodb,sqlite,bootstrap" height="20" /> |
-
-| | |
-| - | - |
-| Web Development | <img src="https://skillicons.dev/icons?i=ts,next,svelte,html,css,md,jquery" height="20" /> |
-| Back-end Development | <img src="https://skillicons.dev/icons?i=ts,nodejs,nest,express" height="20" /> |
-| DB, Query & ORMs | <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,graphql,mongodb,redis,sqlite" height="20" /> |
-| Mobile Development | <img src="https://skillicons.dev/icons?i=swift,kotlin" height="20" /> |
-| CSS & Styling | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass" height="20" /> |
-| Source Control | <img src="https://skillicons.dev/icons?i=git,github,gitlab" height="20" /> |
-| DevOps & Cloud | <img src="https://skillicons.dev/icons?i=vercel,aws,firebase,supabase,heroku,netlify" height="20" /> |
-| Containerization | <img src="https://skillicons.dev/icons?i=docker" height="20" /> |
-| Terminal | <img src="https://skillicons.dev/icons?i=bash" height="20" /> |
-| Languages | <img src="https://skillicons.dev/icons?i=js,php,java,c,cpp" height="20" /> |
-| Testing | <img src="https://skillicons.dev/icons?i=jest" height="20" /> |
-| IDE & Editors | <img src="https://skillicons.dev/icons?i=vscode,androidstudio,codepen" height="20" /> |
-| Tools | <img src="https://skillicons.dev/icons?i=gradle,grafana" height="20" /> |
-| Operating System | <img src="https://skillicons.dev/icons?i=linux" height="20" /> |
-| Others | <img src="https://skillicons.dev/icons?i=regex,svg,webpack" height="20" /> |
+| |
+| **Used in Previous Life:** | <img src="https://skillicons.dev/icons?i=php,java,jquery,sass,mysql,c,cpp" height="20" /> |
+| |
+| **Also Know & Use** (in no specific order)**:** | <img src="https://skillicons.dev/icons?i=svelte,md,express,mongodb,sqlite,bootstrap,materialui,firebase,heroku,netlify,bash,jest,gradle,grafana,regex,svg" height="20" /> |
 
 
 <details>
