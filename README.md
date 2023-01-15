@@ -1,14 +1,13 @@
-## 👨‍💻 Profile
-Hi 👋  
-I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of 5+ years, I have worked with several clients and have architected & built 40+ scalable [projects](https://isolpro.in/portfolio) and published 20+ [open-source libraries](https://github.com/utsavdotpro?tab=repositories). I love to learn and teach technical stuff.  
+## 👋 Hello
+I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of ~6 years, I have worked with several clients and have architected & built 40+ scalable [projects](https://isolpro.in/portfolio) and published 20+ [open-source libraries](https://github.com/utsavdotpro?tab=repositories). I love to learn and teach technical stuff.  
 
 Want to know more about me? See my portfolio: https://utsav.pro
 
 - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
-- 🌱 &nbsp; I’m currently learning (mostly) **React Native**, **C#** & **.Net**
-- 💞️ &nbsp; I’m looking to collaborate on **some awesome JS or Android libraries**
+- 🎸 &nbsp; I’m currently learning to play Ukulele
+- 💞️ &nbsp; I’m looking to collaborate on some awesome **JS** or **Android libraries**
 - 📫 &nbsp; Reach me at me@utsav.pro
-- 📆 &nbsp; Schedule a call: https://talkto.utsav.pro
+- 📆 &nbsp; Schedule a call: https://topmate.io/utsavdotpro
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/utsavdotpro)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/utsavdotpro)
@@ -36,6 +35,59 @@ Want to know more about me? See my portfolio: https://utsav.pro
 </a>
 
 ## ⚡ Technologies
+
+### One-true Love
+
+<img src="https://skillicons.dev/icons?i=ts" height="20" />
+
+### Go-to Tech Stack
+
+Front-end:
+
+<img src="https://skillicons.dev/icons?i=ts,next,react,html,tailwind,vercel" height="20" />
+
+Back-end:
+
+<img src="https://skillicons.dev/icons?i=ts,nest,nodejs,prisma,postgres,graphql,redis,aws" height="20" />
+
+Mobile:
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,sqlite" height="20" /> ReactNative, RealmDB
+
+Tools:
+
+<img src="https://skillicons.dev/icons?i=vscode,github,docker" height="20" />
+
+Others:
+
+<img src="https://skillicons.dev/icons?i=docker" height="20" />, Yarn
+
+### Used in Previous Life
+
+<img src="https://skillicons.dev/icons?i=php,java,jquery,sass" height="20" />
+
+### Also Know (in no specific order)
+
+<img src="https://skillicons.dev/icons?i=svelte,md,express,mysql,mongodb,sqlite,bootstrap" height="20" />
+
+| | |
+| - | - |
+| Web Development | <img src="https://skillicons.dev/icons?i=ts,next,svelte,html,css,md,jquery" height="20" /> |
+| Back-end Development | <img src="https://skillicons.dev/icons?i=ts,nodejs,nest,express" height="20" /> |
+| DB, Query & ORMs | <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,graphql,mongodb,redis,sqlite" height="20" /> |
+| Mobile Development | <img src="https://skillicons.dev/icons?i=swift,kotlin" height="20" /> |
+| CSS & Styling | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass" height="20" /> |
+| Source Control | <img src="https://skillicons.dev/icons?i=git,github,gitlab" height="20" /> |
+| DevOps & Cloud | <img src="https://skillicons.dev/icons?i=vercel,aws,firebase,supabase,heroku,netlify" height="20" /> |
+| Containerization | <img src="https://skillicons.dev/icons?i=docker" height="20" /> |
+| Terminal | <img src="https://skillicons.dev/icons?i=bash" height="20" /> |
+| Languages | <img src="https://skillicons.dev/icons?i=js,php,java,c,cpp" height="20" /> |
+| Testing | <img src="https://skillicons.dev/icons?i=jest" height="20" /> |
+| IDE & Editors | <img src="https://skillicons.dev/icons?i=vscode,androidstudio,codepen" height="20" /> |
+| Tools | <img src="https://skillicons.dev/icons?i=gradle,grafana" height="20" /> |
+| Operating System | <img src="https://skillicons.dev/icons?i=linux" height="20" /> |
+| Others | <img src="https://skillicons.dev/icons?i=regex,svg,webpack" height="20" /> |
+
 
 <details>
   <summary><b>Front-end Languages/Frameworks</b></summary>
