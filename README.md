@@ -1,3 +1,5 @@
+<img src="./assets/banner.png" style="border-radius:6px" />  
+
 ## 👋 Hello
 I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of ~6 years, I have worked with several clients and have architected & built 40+ scalable [projects](https://isolpro.in/portfolio) and published 20+ [open-source libraries](https://github.com/utsavdotpro?tab=repositories). I love to learn and teach technical stuff.  
 
