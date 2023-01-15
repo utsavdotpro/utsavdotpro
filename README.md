@@ -50,7 +50,7 @@ Want to know more about me? See my portfolio: https://utsav.pro
   As a consultant with **[Inkredo](https://inkredo.in/)**, I led a small team of developers to build a CRM for lenders to better manage their customers & improvise collections.
 </div>  
 
-🔗 See my full work history on [<img src="https://skillicons.dev/icons?i=linkedin" height="12" /> LinkedIn](https://www.linkedin.com/in/utsavdotpro/)
+🔗 See my full work history on [<img src="https://skillicons.dev/icons?i=linkedin" height="14" /> LinkedIn](https://www.linkedin.com/in/utsavdotpro/)
 
 ## 📈 Stats
 
