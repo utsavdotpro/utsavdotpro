@@ -41,15 +41,15 @@ Want to know more about me? See my portfolio: https://utsav.pro
 | **One True-love:** | <img src="https://skillicons.dev/icons?i=ts" height="20" /> |
 | |
 | **Go-to Stack** | |
-| Front-end: | <img src="https://skillicons.dev/icons?i=ts,next,react,tailwind,html,css,vercel" height="20" /> |
-| Back-end: | <img src="https://skillicons.dev/icons?i=ts,nest,nodejs,prisma,postgres,graphql,redis,aws" height="20" /> |
-| Mobile: | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,sqlite" height="20" /> | ReactNative, RealmDB |
-| Tools: | <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,supabase,webpack" height="20" /> |
-| Others: | <img src="https://skillicons.dev/icons?i=docker" height="20" /> | Yarn |
+| Front-end: | <img src="https://skillicons.dev/icons?i=ts,next,react,tailwind,html,css,vercel&perline=8" height="20" /> |
+| Back-end: | <img src="https://skillicons.dev/icons?i=ts,nest,nodejs,prisma,postgres,graphql,redis,aws&perline=8" height="20" /> |
+| Mobile: | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,sqlite&perline=8" height="20" /> | ReactNative, RealmDB |
+| Tools: | <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,supabase,webpack&perline=8" height="20" /> |
+| Others: | <img src="https://skillicons.dev/icons?i=docker&perline=8" height="20" /> | Yarn |
 | |
-| **Used in Previous Life:** | <img src="https://skillicons.dev/icons?i=php,java,jquery,sass,mysql,c,cpp" height="20" /> |
+| **Used in Previous Life:** | <img src="https://skillicons.dev/icons?i=php,java,jquery,sass,mysql,c,cpp&perline=8" height="20" /> |
 | |
-| **Also Know & Use** (in no specific order)**:** | <img src="https://skillicons.dev/icons?i=svelte,md,express,mongodb,sqlite,bootstrap,materialui,firebase,heroku,netlify,bash,jest,gradle,grafana,regex,svg" height="20" /> |
+| **Also Know & Use** (in no specific order)**:** | <img src="https://skillicons.dev/icons?i=svelte,md,express,mongodb,sqlite,bootstrap,materialui,firebase,heroku,netlify,bash,jest,gradle,grafana,regex,svg&perline=8" height="20" /> |
 
 
 <details>
