@@ -1,7 +1,7 @@
 <img src="./assets/banner.png" />  
 
 ## 👋 Hello
-I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of ~6 years, I have worked with several clients and have architected & built 40+ scalable [projects](https://isolpro.in/portfolio) and published 20+ [open-source libraries](https://github.com/utsavdotpro?tab=repositories). I love to learn and teach technical stuff.  
+I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of ~6 years, I have worked with several clients and have architected & built 40+ scalable [projects](https://isolpro.in/portfolio) and published 15+ [open-source libraries](https://github.com/utsavdotpro?tab=repositories). I love to learn and teach technical stuff.  
 
 Want to know more about me? Checkout my links: https://bento.me/utsavdotpro
 
@@ -66,7 +66,7 @@ Want to know more about me? Checkout my links: https://bento.me/utsavdotpro
 
 | | | |
 | - | - | - |
-| **One True-love:** | <img src="https://skillicons.dev/icons?i=ts" height="24" /> |
+| **One True-love:** | <img src="https://skillicons.dev/icons?i=tailwind" height="24" /> |
 | |
 | **Go-to Stack** | |
 | Front-end: | <img src="https://skillicons.dev/icons?i=ts,next,react,tailwind,html,css,vercel&perline=8" height="24" /> |
