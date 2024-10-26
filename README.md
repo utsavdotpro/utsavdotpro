@@ -3,19 +3,19 @@
 ## 👋 Hello
 I’m Utsav Barnwal a **passionate & professional Full-stack Developer**. In my working experience of ~6 years, I have worked with several clients and have architected & built 40+ scalable [projects](https://isolpro.in/portfolio) and published 15+ [open-source libraries](https://github.com/utsavdotpro?tab=repositories). I love to learn and teach technical stuff.  
 
-Want to know more about me? Checkout my links: https://bento.me/utsavdotpro
+Want to know more about me? Checkout my links: [bento.me/utsavdotpro](https://bento.me/utsavdotpro)
 
 - 👀 &nbsp; I’m interested in **learning technical stuffs** and **building real-world applications**
 - 🎸 &nbsp; I’m currently learning to play Ukulele
 - 💞️ &nbsp; I’m looking to collaborate on some awesome **JS** or **Android libraries**
 - 📫 &nbsp; Reach me at me@utsav.pro
-- 📆 &nbsp; Schedule a call: https://topmate.io/utsavdotpro
+- 📆 &nbsp; Schedule a call: [cal.com/utsavdotpro](https://cal.com/utsavdotpro)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/utsavdotpro)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/utsavdotpro)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4437468)
-[![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-00897B?style=for-the-badge&logo=google-meet&logoColor=white)](https://topmate.io/utsavdotpro)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4437468)  
 
+[![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-00897B?style=for-the-badge&logo=google-meet&logoColor=white)](https://cal.com/utsavdotpro)
 ![](https://visitcount.itsvg.in/api?id=utsavdotpro&label=Views&color=12&icon=5&pretty=true)
 
 ## 💼 Work (Recent)
@@ -44,12 +44,6 @@ Want to know more about me? Checkout my links: https://bento.me/utsavdotpro
 
 ---
 
-<div>
-  <img height="60" align='right' src="./assets/inkredo.png" style="object-fit:contain" />  
-
-  As a consultant with **[Inkredo](https://inkredo.in/)**, I led a small team of developers to build a CRM for lenders to better manage their customers & improvise collections.
-</div>  
-
 🔗 See my full work history on [<img src="https://skillicons.dev/icons?i=linkedin" height="14" /> LinkedIn](https://www.linkedin.com/in/utsavdotpro/)
 
 ## 📈 Stats
@@ -66,15 +60,15 @@ Want to know more about me? Checkout my links: https://bento.me/utsavdotpro
 
 | | | |
 | - | - | - |
-| **One True-love:** | <img src="https://skillicons.dev/icons?i=tailwind" height="24" /> |
+| **One True-love:** | <img src="https://skillicons.dev/icons?i=tailwind" height="28" /> |
 | |
 | **Go-to Stack** | |
-| Front-end: | <img src="https://skillicons.dev/icons?i=ts,next,react,tailwind,html,css,vercel&perline=8" height="24" /> |
-| Back-end: | <img src="https://skillicons.dev/icons?i=ts,nest,nodejs,prisma,postgres,graphql,redis,aws&perline=8" height="24" /> | Swagger |
-| Mobile: | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,sqlite&perline=8" height="24" /> | ReactNative, Expo, RealmDB |
-| Tools: | <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,supabase,webpack,figma&perline=8" height="24" /> | Postman |
-| Others: | <img src="https://skillicons.dev/icons?i=docker&perline=8" height="24" /> | Yarn, JWT |
+| Front-end: | <img src="https://skillicons.dev/icons?i=ts,next,react,tailwind,html,css,vercel&perline=8" height="28" /> |
+| Back-end: | <img src="https://skillicons.dev/icons?i=ts,nest,nodejs,prisma,postgres,graphql,redis,aws&perline=8" height="28" /> | Swagger |
+| Mobile: | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,sqlite&perline=8" height="28" /> | ReactNative, Expo, RealmDB |
+| Tools: | <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,supabase,webpack,figma&perline=8" height="28" /> | Postman |
+| Others: | <img src="https://skillicons.dev/icons?i=docker&perline=8" height="28" /> | Yarn, JWT |
 | |
-| **Know & Use** (in no specific order)**:** | <img src="https://skillicons.dev/icons?i=svelte,md,express,mongodb,sqlite,bootstrap,materialui,firebase,heroku,netlify,bash,jest,gradle,grafana,regex,svg&perline=8" height="48" /> | Websocket, DigitalOcean |
+| **Know & Use** (in no specific order)**:** | <img src="https://skillicons.dev/icons?i=svelte,md,express,mongodb,sqlite,bootstrap,materialui,firebase,heroku,netlify,bash,jest,gradle,grafana,regex,svg&perline=8" height="56" /> | Websocket, DigitalOcean |
 | |
-| **Used in Previous Life:** | <img src="https://skillicons.dev/icons?i=php,java,jquery,sass,mysql,c,cpp&perline=8" height="24" /> |
+| **Used in Previous Life:** | <img src="https://skillicons.dev/icons?i=php,java,jquery,sass,mysql,c,cpp&perline=8" height="28" /> |
