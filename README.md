@@ -23,7 +23,7 @@ Want to know more about me? Checkout my links: [bento.me/utsavdotpro](https://be
 <div>
   <img height="60" align='left' src="./assets/agoda.png" style="object-fit:contain" />  
 
-  I am currently employed with [**Agoda**](https://agoda.com/), one of the top travel companies in Asia, as a full-stack developer with prime focus on back-end.
+  I am currently employed with [**Agoda**](https://agoda.com/), one of the top travel companies in Asia, as a full-stack developer with prime focus on client-side of things exploring cross-platform development.
 </div>  
 
 ---
